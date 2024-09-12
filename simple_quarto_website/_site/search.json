@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nThis is the Lab1.2 assignment website!\n\n\nAim to test qmd file, below is ipsum lorem text:\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi erat ante, dapibus a nibh eu, vulputate cursus erat. Duis et enim ligula. Duis odio sem, dictum sed dui in, molestie fringilla neque. Suspendisse venenatis ultrices dictum. Suspendisse eleifend, odio et sollicitudin molestie, ipsum tellus dignissim sapien, sit amet scelerisque orci lectus sed sapien. Aenean ultrices imperdiet libero, eu sollicitudin libero accumsan sit amet. Fusce ornare nisl est, vitae varius orci molestie at.\nNulla in fringilla nibh. Proin a erat eleifend quam consequat blandit fermentum quis odio. Vestibulum pretium a magna porttitor rhoncus. In sollicitudin a ex at pellentesque. Vivamus sed tortor venenatis, vulputate odio quis, dictum arcu. Nulla facilisi. Aenean gravida ipsum ligula, id sagittis metus imperdiet ac. Maecenas efficitur cursus dapibus. Aliquam hendrerit ligula eget arcu accumsan iaculis. Curabitur finibus est nibh, in varius nulla efficitur at.\nProin vitae aliquet augue, id lobortis lacus. Donec dignissim enim est, ut pretium leo tincidunt ut. Aenean dictum finibus tincidunt. Aenean magna lectus, vestibulum ut magna blandit, laoreet fermentum magna. Maecenas pharetra rutrum dui facilisis rutrum. Morbi nec magna id dolor suscipit vehicula. Praesent vel nisi ultricies, imperdiet turpis a, ornare quam.\n\n\n\n\n\nRead\n\n\nThe\n\n\nHeader\n\n\nTo\n\n\nTest\n\n\n\n\n\nHOW ARE YOU\n\n\n\n\n\nThanks\nBye!\n\n\nFor\nReal?\n\n\nWho\n???\n\n\n\n\nThis is a math equation: \\(E =  \\sqrt{\\sum (x+y)}^2\\)\n\n\\[ x + y = p^2*2  \\]\n\nHere is a inline footnote [^1] HELLOOOOOOOOOO?\n\n\nquote\n\n\nThis is a quote. I doubt that? Click me(LeCun, Bengio, and Hinton 2015)   \n\n\n\n\n\n\nflowchart LR\n  A[Georgetown] --&gt; B(Rosslyn)\n  B --&gt; C{Bus station}\n  C --&gt; C[Target]\n  C --&gt; C[Gym]\n\n\n\n\n\n\n\n\n\n\nReferences\n\nLeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. 2015. “Deep Learning.” Nature 521 (7553): 436–44."
+  },
+  {
+    "objectID": "slides/slides.html#slide-1",
+    "href": "slides/slides.html#slide-1",
+    "title": "Lab 1.2",
+    "section": "Slide 1",
+    "text": "Slide 1\n\nHello\nHow are you?\nClick me(LeCun, Bengio, and Hinton 2015)\n\n\n\nCode\nprint(\"hello\")\nprint(\"A python code print this sentence\")\nprint(list[1, 2, 3, 4, 5])\n\n\nhello\nA python code print this sentence\nlist[1, 2, 3, 4, 5]"
+  },
+  {
+    "objectID": "slides/slides.html#slide-2",
+    "href": "slides/slides.html#slide-2",
+    "title": "Lab 1.2",
+    "section": "Slide 2",
+    "text": "Slide 2\n\nWhat is that?\n\\[x = y + c*2 - sqrt(3)\\]"
+  },
+  {
+    "objectID": "slides/slides.html#slide-3",
+    "href": "slides/slides.html#slide-3",
+    "title": "Lab 1.2",
+    "section": "Slide 3",
+    "text": "Slide 3\n - Good Bye!\n\n\n\n\n\n\n\n\nLeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. 2015. “Deep Learning.” Nature 521 (7553): 436–44."
+  }
+]

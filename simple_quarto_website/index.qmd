@@ -1,0 +1,51 @@
+---
+title: "simple_quarto_website"
+bibliography: reference.bib
+format:
+  html:
+    toc: true
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<h1>This is the Lab1.2 assignment website!</h1>
+<h2>Aim to test qmd file, below is ipsum lorem text:</h2>
+<h3> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi erat ante, dapibus a nibh eu, vulputate cursus erat. Duis et enim ligula. Duis odio sem, dictum sed dui in, molestie fringilla neque. Suspendisse venenatis ultrices dictum. Suspendisse eleifend, odio et sollicitudin molestie, ipsum tellus dignissim sapien, sit amet scelerisque orci lectus sed sapien. Aenean ultrices imperdiet libero, eu sollicitudin libero accumsan sit amet. Fusce ornare nisl est, vitae varius orci molestie at.
+
+Nulla in fringilla nibh. Proin a erat eleifend quam consequat blandit fermentum quis odio. Vestibulum pretium a magna porttitor rhoncus. In sollicitudin a ex at pellentesque. Vivamus sed tortor venenatis, vulputate odio quis, dictum arcu. Nulla facilisi. Aenean gravida ipsum ligula, id sagittis metus imperdiet ac. Maecenas efficitur cursus dapibus. Aliquam hendrerit ligula eget arcu accumsan iaculis. Curabitur finibus est nibh, in varius nulla efficitur at.
+
+Proin vitae aliquet augue, id lobortis lacus. Donec dignissim enim est, ut pretium leo tincidunt ut. Aenean dictum finibus tincidunt. Aenean magna lectus, vestibulum ut magna blandit, laoreet fermentum magna. Maecenas pharetra rutrum dui facilisis rutrum. Morbi nec magna id dolor suscipit vehicula. Praesent vel nisi ultricies, imperdiet turpis a, ornare quam.</h3>
+<h3> </h3>
+<ol>
+  <li>Read</li>
+  <li>The</li>
+  <li>Header</li>
+  <li>To</li>
+  <li>Test</li>
+</ol>
+|   HOW ARE YOU   |
+| -------|:------ |
+| Thanks | Bye!   |
+| For    | Real?  |
+| Who    | ???    |
+
+<p>This is a math equation: $E =  \sqrt{\sum (x+y)}^2$  </p>
+$$ x + y = p^2*2  $$
+
+<p> Here is a inline footnote [^1] HELLOOOOOOOOOO?</p>
+<p> quote </p>
+> This is a quote.
+> I doubt that?
+> Click me[@lecun2015deep]
+![](images/pic1.jpg)
+![](images/Unknown.jpeg)
+{{<video https://youtu.be/4VEMLNg3ICo>}}
+
+```{mermaid}
+flowchart LR
+  A[Georgetown] --> B(Rosslyn)
+  B --> C{Bus station}
+  C --> C[Target]
+  C --> C[Gym]
+```
